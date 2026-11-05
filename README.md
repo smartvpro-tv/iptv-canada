@@ -95,6 +95,8 @@ Use this with any seller, including us:
 
 Red flags: lifetime deals, prices far below the market, no trial, no channel list, Telegram-only support.
 
+A shorter, step-by-step version of this checklist: [How to choose an IPTV service in Canada](how-to-choose-an-iptv-service-in-canada.md).
+
 ## Common Canadian channel categories
 
 - **Canadian networks:** CBC, CTV, Global, Citytv, CTV2, OMNI, APTN
@@ -138,6 +140,7 @@ Usually, but some services restrict logins outside Canada. Ask before you travel
 
 ## Further reading
 
+- [How to choose an IPTV service in Canada: a practical 2026 checklist](how-to-choose-an-iptv-service-in-canada.md)
 - [Best IPTV Canada](https://iptvv-ca.ca/best-iptv-canada/)
 - [IPTV subscription Canada](https://iptvv-ca.ca/iptv-subscription-canada/)
 - [IPTV setup Canada](https://iptvv-ca.ca/iptv-setup-canada/)
