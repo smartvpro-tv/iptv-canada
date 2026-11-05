@@ -141,6 +141,7 @@ Usually, but some services restrict logins outside Canada. Ask before you travel
 ## Further reading
 
 - [How to choose an IPTV service in Canada: a practical 2026 checklist](how-to-choose-an-iptv-service-in-canada.md)
+- [Download this checklist as a PDF](https://smartvpro1.s3.us-east-2.amazonaws.com/iptv-canada-checklist-2026.pdf)
 - [Best IPTV Canada](https://iptvv-ca.ca/best-iptv-canada/)
 - [IPTV subscription Canada](https://iptvv-ca.ca/iptv-subscription-canada/)
 - [IPTV setup Canada](https://iptvv-ca.ca/iptv-setup-canada/)

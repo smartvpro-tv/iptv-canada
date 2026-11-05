@@ -4,6 +4,8 @@
 
 Last updated: November 2026
 
+Download this checklist as a PDF: [iptv-canada-checklist-2026.pdf](https://smartvpro1.s3.us-east-2.amazonaws.com/iptv-canada-checklist-2026.pdf)
+
 ## The short version
 
 | Check | What to look for |
