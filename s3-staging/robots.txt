@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smartvpro1.s3.us-east-2.amazonaws.com/sitemap.xml
