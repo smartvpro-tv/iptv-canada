@@ -67,6 +67,8 @@ Which app for which device: [awesome-iptv-players](https://github.com/smartvpro-
 
 Rural and satellite connections (Starlink, Xplore) can stream HD fine but suffer from latency spikes; a larger player buffer helps. Wi-Fi is the usual cause of buffering in cities. More in [iptv-troubleshooting](https://github.com/smartvpro-tv/iptv-troubleshooting).
 
+To measure the real speed between your home and the stream itself, for example during a hockey game, use the free [iptv-toolkit](https://github.com/smartvpro-tv/iptv-toolkit) and follow the [IPTV Canada testing guide](https://smartvpro-tv.github.io/iptv-toolkit/canada.html).
+
 ## English and French channels
 
 Canada is one of the few markets where a single household often needs two full language line-ups. When comparing services, check specifically for:
